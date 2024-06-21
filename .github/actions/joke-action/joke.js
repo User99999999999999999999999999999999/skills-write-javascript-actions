@@ -7,7 +7,7 @@ const options = {
 	headers: {
 		Accept: "application/json",
 		"User-Agent": "Writing JavaScript action GitHub Skills course.",
-	};
+	},
 	json: true,
 };
 
